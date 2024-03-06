@@ -1,6 +1,8 @@
 # EJERCICIOS-progra
 
 Fatima Isabel Escobar
+
+/--
 yardas
 venta al mes
 pago de empleado
